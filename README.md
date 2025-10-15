@@ -1,4 +1,6 @@
-# AT-KD:
+# AT-KD
+
+[中文版](./README_zh.md) | English
 
 ## 🔧 Requirements
 
